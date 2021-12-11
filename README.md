@@ -16,18 +16,10 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ## Progression (8/50 ⭐)
 
-|             Challenge             | Status |             Challenge             | Status | 
-|-----------------------------------|--------|-----------------------------------|--------|
-|  [Day 1](1_Sonar_Sweep/)          |  ⭐⭐  | [Day 14](day14/)                  |   ❌   |
-|  [Day 2](2_Dive/)                 |  ⭐⭐  | [Day 15](day15/)                  |   ❌   |
-|  [Day 3](3_Binary_Diagnostic/)    |  ⭐⭐  | [Day 16](day16/)                  |   ❌   |
-|  [Day 4](4_Giant_Squid/)          |  ⭐⭐  | [Day 17](day17/)                  |   ❌   |
-|  [Day 5](day5/)                   |   ❌   | [Day 18](day18/)                  |   ❌   |
-|  [Day 6](day6/)                   |   ❌   | [Day 19](day19/)                  |   ❌   |
-|  [Day 7](day7/)                   |   ❌   | [Day 20](day20/)                  |   ❌   |
-|  [Day 8](day8/)                   |   ❌   | [Day 21](day21/)                  |   ❌   |
-|  [Day 9](day9/)                   |   ❌   | [Day 22](day22/)                  |   ❌   |
-| [Day 10](day10/)                  |   ❌   | [Day 23](day23/)                  |   ❌   |
-| [Day 11](day11/)                  |   ❌   | [Day 24](day24/)                  |   ❌   |
-| [Day 12](day12/)                  |   ❌   | [Day 25](day25/)                  |   ❌   |
-| [Day 13](day13/)                  |   ❌   |
+| Day | Status | Day | Status | Day | Status | Day | Status | Day | Status |
+|-----|--------|-----|--------|-----|--------|-----|--------|-----|--------|
+|[Day 1](1_Sonar_Sweep/)      |⭐⭐|[Day 6](  )| ❌ |[Day 11](  )| ❌ |[Day 16](  )| ❌ |[Day 21](  )| ❌ |
+|[Day 2](2_Dive/)             |⭐⭐|[Day 7](  )| ❌ |[Day 12](  )| ❌ |[Day 17](  )| ❌ |[Day 22](  )| ❌ |
+|[Day 3](3_Binary_Diagnostic/)|⭐⭐|[Day 8](  )| ❌ |[Day 13](  )| ❌ |[Day 18](  )| ❌ |[Day 23](  )| ❌ |
+|[Day 4](4_Giant_Squid/)      |⭐⭐|[Day 9](  )| ❌ |[Day 14](  )| ❌ |[Day 19](  )| ❌ |[Day 24](  )| ❌ |
+|[Day 5](     )               | ❌ |[Day 10]( )| ❌ |[Day 15](  )| ❌ |[Day 20](  )| ❌ |[Day 25](  )| ❌ |
