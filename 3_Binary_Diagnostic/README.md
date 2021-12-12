@@ -1,6 +1,8 @@
 # Day 3: Binary Diagnostic
 The submarine has been making some odd creaking noises, so you ask it to produce a diagnostic report just in case.
 
+## Part 1
+
 The diagnostic report (your puzzle input) consists of a list of binary numbers which, when decoded properly, can tell you many useful things about the conditions of the submarine. The first parameter to check is the **power consumption**.
 
 You need to use the binary numbers in the diagnostic report to generate two new binary numbers (called the **gamma rate** and the **epsilon rate**). The power consumption can then be found by multiplying the gamma rate by the epsilon rate.
@@ -36,7 +38,7 @@ Use the binary numbers in your diagnostic report to calculate the gamma rate and
 
 - Your puzzle answer was `3923414`.
 
-## --- Part Two ---
+## Part 2
 Next, you should verify the **life support rating**, which can be determined by multiplying the **oxygen generator rating** by the **CO2 scrubber rating**.
 
 Both the oxygen generator rating and the CO2 scrubber rating are values that can be found in your diagnostic report - finding them is the tricky part. Both values are located using a similar process that involves filtering out values until only one remains. Before searching for either rating value, start with the full list of binary numbers from your diagnostic report and **consider just the first bit** of those numbers. Then:
