@@ -19,6 +19,8 @@ For example, suppose you had the following report:
 
 This report indicates that, scanning outward from the submarine, the sonar sweep found depths of `199`, `200`, `208`, `210`, and so on.
 
+## Part 1
+
 The first order of business is to figure out how quickly the depth increases, just so you know what you're dealing with - you never know if the keys will get carried into deeper water by an ocean current or a fish or something.
 
 To do this, count **the number of times a depth measurement increases** from the previous measurement. (There is no measurement before the first measurement.) In the example above, the changes are as follows:
@@ -42,7 +44,7 @@ In this example, there are 7 measurements that are larger than the previous meas
 
 - Your puzzle answer was `1583`.
 
-## --- Part Two ---
+## Part 2
 
 Considering every single measurement isn't as useful as you expected: there's just too much noise in the data.
 
