@@ -1,6 +1,5 @@
 #include "solve.h"
 
-
 /* Print the informations of a bingo_grid */
 void print_grid(bingo_grid bingo_grid){
     puts("=================== GRID ===================");
@@ -96,7 +95,6 @@ int get_score(bingo_grid bingo_grid, int last_draw){
 
     return sum_unmarked * last_draw;
 }
-
 
 
 
