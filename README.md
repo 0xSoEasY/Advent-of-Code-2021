@@ -18,8 +18,8 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 | Day | Status | Day | Status | Day | Status | Day | Status | Day | Status |
 |-----|--------|-----|--------|-----|--------|-----|--------|-----|--------|
-|[Day 1](1_Sonar_Sweep/)      |⭐⭐|[Day 6](  )| ❌ |[Day 11](  )| ❌ |[Day 16](  )| ❌ |[Day 21](  )| ❌ |
-|[Day 2](2_Dive/)             |⭐⭐|[Day 7](  )| ❌ |[Day 12](  )| ❌ |[Day 17](  )| ❌ |[Day 22](  )| ❌ |
-|[Day 3](3_Binary_Diagnostic/)|⭐⭐|[Day 8](  )| ❌ |[Day 13](  )| ❌ |[Day 18](  )| ❌ |[Day 23](  )| ❌ |
-|[Day 4](4_Giant_Squid/)      |⭐⭐|[Day 9](  )| ❌ |[Day 14](  )| ❌ |[Day 19](  )| ❌ |[Day 24](  )| ❌ |
-|[Day 5](     )               | ❌ |[Day 10]( )| ❌ |[Day 15](  )| ❌ |[Day 20](  )| ❌ |[Day 25](  )| ❌ |
+|[Day 1](1_Sonar_Sweep/)        |⭐⭐|[Day 6](  )| ❌ |[Day 11](  )| ❌ |[Day 16](  )| ❌ |[Day 21](  )| ❌ |
+|[Day 2](2_Dive/)               |⭐⭐|[Day 7](  )| ❌ |[Day 12](  )| ❌ |[Day 17](  )| ❌ |[Day 22](  )| ❌ |
+|[Day 3](3_Binary_Diagnostic/)  |⭐⭐|[Day 8](  )| ❌ |[Day 13](  )| ❌ |[Day 18](  )| ❌ |[Day 23](  )| ❌ |
+|[Day 4](4_Giant_Squid/)        |⭐⭐|[Day 9](  )| ❌ |[Day 14](  )| ❌ |[Day 19](  )| ❌ |[Day 24](  )| ❌ |
+|[Day 5](5_Hydrothermal_Venture)|⭐⭐|[Day 10]( )| ❌ |[Day 15](  )| ❌ |[Day 20](  )| ❌ |[Day 25](  )| ❌ |
