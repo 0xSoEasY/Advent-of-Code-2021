@@ -11,7 +11,7 @@ elif [ $session_id == "YOUR_SESSION_ID_HERE" ]; then
     exit 2
 fi
 
-export challenge_name=$(curl -s https://adventofcode.com/2021/day/$1 | grep "\-\-\- Day" | sed 's/.*<h2>.*: //' | sed 's/ \-\-\-<\/h2>.*//' | sed 's/ /_/')
+export challenge_name=$(curl -s https://adventofcode.com/2021/day/$1 | grep "\-\-\- Day" | sed 's/.*<h2>.*: //' | sed 's/ \-\-\-<\/h2>.*//' | sed 's/ /_/g')
 export folder_name="$1_$challenge_name"
 
 printf "[!] Creating folder './%s/'\n" $folder_name
