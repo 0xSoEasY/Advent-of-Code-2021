@@ -117,6 +117,8 @@ int main(int argc, char** argv){
         }
     }
 
+    fclose(fd);
+
     for(int i=0; i < 256; i++){
         apply_day_part2(lanternfish_internal_timers);
 

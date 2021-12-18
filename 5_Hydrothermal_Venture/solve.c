@@ -149,6 +149,8 @@ int main(int argc, char** argv){
         }
     }
 
+    fclose(fd);
+
     #ifdef DEBUG
         puts("------------------------");
         print_diagram(diagram);

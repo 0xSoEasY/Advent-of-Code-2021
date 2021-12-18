@@ -23,5 +23,7 @@ int main(int argc, char** argv){
         printf("%s", line);
     }
 
+    fclose(fd);
+
     return EXIT_SUCCESS;
 }
