@@ -13,6 +13,7 @@ struct lanternfish {
 #define lanternfish struct lanternfish
 
 
+/* Print all the lanterfishes in the linked list (used for debug) */
 void print_fishes_part1(lanternfish* first){
     lanternfish* ptr = first;
 
@@ -24,6 +25,7 @@ void print_fishes_part1(lanternfish* first){
 }
 
 
+/* Print the number of fishes with every intern counter (used for debug) */
 void print_fishes_part2(long internal_timers[9]){
     puts("---------------------------------------------------------");
     for(int i=0; i < 9; i++){
@@ -32,6 +34,7 @@ void print_fishes_part2(long internal_timers[9]){
 }
 
 
+/* Count the number of lanternfishes in a linked list of lanternfish */
 int count_fishes_part1(lanternfish* first){
     lanternfish* ptr = first;
     int total = 0;
@@ -44,6 +47,7 @@ int count_fishes_part1(lanternfish* first){
 }
 
 
+/* Count the number of lanternfish in a internal_timer array */
 long count_fishes_part2(long internal_timers[9]){
     long total = 0;
 

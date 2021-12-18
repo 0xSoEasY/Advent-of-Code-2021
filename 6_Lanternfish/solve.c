@@ -1,6 +1,6 @@
 #include "solve.h"
 
-
+/* Compute a day for part. 1 (using a linked list of lanternfish) */
 lanternfish* apply_day_part1(lanternfish* first, lanternfish* last){
     lanternfish* ptr = first;
     lanternfish* ptr_last = last;
@@ -22,7 +22,8 @@ lanternfish* apply_day_part1(lanternfish* first, lanternfish* last){
 }
 
 
-void apply_day_part2(long internal_timers[8]){
+/* Compute a day for part. 2 (using a long internal_timers[9]) */
+void apply_day_part2(long internal_timers[9]){
     long tmp[9];
     memset(tmp, 0, 9*sizeof(long));
 
@@ -40,6 +41,9 @@ void apply_day_part2(long internal_timers[8]){
 }
 
 
+/*
+ Entry point of the program
+ */
 int main(int argc, char** argv){
 
     FILE* fd;
