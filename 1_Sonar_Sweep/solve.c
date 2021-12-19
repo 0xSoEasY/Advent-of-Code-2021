@@ -58,7 +58,6 @@ int main(int argc, char** argv){
 
     FILE* fd;
     char line[10];
-    int last, current;
 
     if(argc < 2){
         printf("\tUsage : %s <input file>\n", argv[0]);
