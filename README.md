@@ -14,12 +14,12 @@ Your instincts tell you that in order to save Christmas, you'll need to get all 
 
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants **one star**. Good luck!
 
-## Progression (14/50 ⭐)
+## Progression (15/50 ⭐)
 
 | Day | Status | Day | Status | Day | Status | Day | Status | Day | Status |
 |-----|--------|-----|--------|-----|--------|-----|--------|-----|--------|
 |[Day 1](1_Sonar_Sweep/)        |⭐⭐|[Day 6](6_Lanternfish/)            |⭐⭐|[Day 11](  )| ❌ |[Day 16](  )| ❌ |[Day 21](  )| ❌ |
 |[Day 2](2_Dive/)               |⭐⭐|[Day 7](7_The_Treachery_of_Whales/)|⭐⭐|[Day 12](  )| ❌ |[Day 17](  )| ❌ |[Day 22](  )| ❌ |
-|[Day 3](3_Binary_Diagnostic/)  |⭐⭐|[Day 8](                          )| ❌ |[Day 13](  )| ❌ |[Day 18](  )| ❌ |[Day 23](  )| ❌ |
+|[Day 3](3_Binary_Diagnostic/)  |⭐⭐|[Day 8](8_Seven_Segment_Search)    | ⭐ |[Day 13](  )| ❌ |[Day 18](  )| ❌ |[Day 23](  )| ❌ |
 |[Day 4](4_Giant_Squid/)        |⭐⭐|[Day 9](                          )| ❌ |[Day 14](  )| ❌ |[Day 19](  )| ❌ |[Day 24](  )| ❌ |
 |[Day 5](5_Hydrothermal_Venture)|⭐⭐|[Day 10](                         )| ❌ |[Day 15](  )| ❌ |[Day 20](  )| ❌ |[Day 25](  )| ❌ |
